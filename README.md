@@ -1,2 +1,1 @@
-# RuiCaiGitHubPages
-This is my GitHub Pages project
+Rui Cai's User Page
